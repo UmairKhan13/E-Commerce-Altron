@@ -1,4 +1,4 @@
-# E-Commerce Altron<br>-----------------------
+# E-Commerce Altron<br>----------------------
 # Introduction 
 This is an Automation Framework to test an E-Commerce Web Portal( Back-End ).
 
